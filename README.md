@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Product Manager/Owner
-- 👀 I’m interested in conceptualizing & developing product/value
+- 😍 I’m interested in conceptualizing & developing product/value
 - 🌱 I’m currently learning/experiencing product management 
-- 💞️ I’m looking to collaborate on product developments & agile projects
+- 🤝 I’m looking to collaborate on product developments & agile projects
 - 📫 How to reach me: Fani.mehran(at)gmail.com 
 
 <!---
